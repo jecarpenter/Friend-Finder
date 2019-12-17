@@ -1,0 +1,24 @@
+* {
+    font-family: ff-tisa-web-pro, serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.ff_main_hl h1 {
+    font-weight: 700;
+    font-style: normal;
+    color: #0382cc;
+    text-shadow: 4px 4px 2px rgba(150, 150, 150, 1);
+}
+
+.jumbotron {
+    background-color: lightgray;
+}
+
+body {
+    background-image: url("../css/images/connectwork.png")
+}
+
+.surveyText {
+    color: lightgray;
+}
